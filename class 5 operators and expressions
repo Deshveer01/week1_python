@@ -29,6 +29,3 @@ print("" or 2.5)
 bool({1,2,3})
 print("" and 0)
 print(112 and "")
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
